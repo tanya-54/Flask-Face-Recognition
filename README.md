@@ -3,9 +3,9 @@ This Flask application provides a simple user authentication system with face re
 
 
 # Features
-User Registration: Users can register with a name, email, and password.
-User Login: Users can log in with their email and password.
-Face Recognition: After logging in, users can start face recognition which will open a webcam feed to verify their identity.
+- User Registration: Users can register with a name, email, and password.
+- User Login: Users can log in with their email and password.
+- Face Recognition: After logging in, users can start face recognition which will open a webcam feed to verify their identity.
 
 
 # Project Structure
