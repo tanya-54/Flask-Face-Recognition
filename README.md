@@ -1,11 +1,11 @@
 # Face Recognition Flask App
-This Flask application provides a simple user authentication system with face recognition. Users can register, log in, and use face recognition for authentication.
+This Flask application provides a user authentication system with face recognition. Users can register, log in, and use face recognition for authentication. The application is capable of recognizing faces from images, including a Harry Potter image.
 
 
 # Features
 - User Registration: Users can register with a name, email, and password.
 - User Login: Users can log in with their email and password.
-- Face Recognition: After logging in, users can start face recognition which will open a webcam feed to verify their identity.
+- Face Recognition: After logging in, users can start face recognition which will open a webcam feed to verify their identity. The app can recognize faces from images, including a Harry Potter image.
 
 
 # Project Structure
